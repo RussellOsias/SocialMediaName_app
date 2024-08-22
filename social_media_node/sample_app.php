@@ -17,4 +17,4 @@
     });
     </script>
     </body>
-    </html>
+    </html>composer create-project codeigniter4/appstarter project-root
